@@ -13,6 +13,9 @@
     - preprocess.py: 
         
         Develop preprocess method for input textual reviews.
+    - ANLY521_writeup.pdf:
+        
+        The writeup of the project which contains 7 parts(including bibiliography)
 * Main libraries imported are:
     - pandas
     - sklearn
